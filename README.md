@@ -5,6 +5,9 @@ A simple Python tool that replies to Y/N questions
 
 NLTK module is needed : `pip install nltk`
 
+then:
+
+
 ```console
 user@linux:~$ git clone https://github.com/0ut0flin3/question_answering.git
 
